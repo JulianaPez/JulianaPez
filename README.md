@@ -1,11 +1,11 @@
 ## Hi there 👋
-
+##- 🔭 I’m currently doing a PhD at INECOL institute
 <!--
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently doing a PhD at INECOL institute
+
+
 - 🌱 I’m currently learning R and Python
 - 👯 I’m looking to collaborate on Fish evolution and general Science
 - 🤔 I’m looking for help with ...
