@@ -6,14 +6,8 @@ I am a Biologist from the University of Antioquia and I obtained my master degre
 
 # 💻 Tech Stack:
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=plastic&logo=julia&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JulianaPez&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=JulianaPez&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JulianaPez&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaPez&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=JulianaPez&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
--->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaPez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
